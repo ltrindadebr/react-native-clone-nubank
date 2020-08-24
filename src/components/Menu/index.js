@@ -20,8 +20,8 @@ export default function Menu() {
         <QRCode
           value="https://google.com"
           size={80}
-          Color="#FFF"
-          backgroundColor="#8B10AE"
+          Color="#8B10AE"
+          backgroundColor="#FFF"
         />
       </Code>
       <Nav>
